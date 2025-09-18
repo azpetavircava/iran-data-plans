@@ -54,3 +54,10 @@ layout: default
 
 　　**最后一句忠告**：多备一张不同运营商的卡，或者确保你的手机支持eSIM作为备用方案。在通信这件事上，给自己留一条后路，总不会错。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Iran SIM 卡购买与激活指南](https://faciylike.github.io/iran-sim-guides)
